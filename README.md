@@ -17,7 +17,7 @@ A reusable pipeline for creating coherent training images from foreground object
 - Automatic CUDA, MPS, and CPU selection
 - Reproducible run metadata and model-free regression tests
 
-### [Synthetic Dataset Generation Pipeline](https://github.com/georgesmirnoff1348/sdxl_semi_auto_generation_pipeline)
+### [Synthetic Dataset Generation Pipeline](https://github.com/georgesmirnoff1348/synthetic-dataset-toolkit)
 
 A set of modular tools originally built to create and manage synthetic datasets for a computer-vision project.
 
