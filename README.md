@@ -42,4 +42,6 @@ A set of modular tools originally built to create and manage synthetic datasets 
 I'm open to remote opportunities and collaborations.
 
 - [LinkedIn](https://www.linkedin.com/in/yury-smirnoff-17787a423/)
-- [Telegram: @georgesmirnoff1348](https://t.me/georgesmirnoff1348)
+- [Telegram](https://t.me/georgesmirnoff1348)
+- [WhatsApp](https://wa.me/995558663960)
+- [Email](mailto:yurysmirnoffwork1348@proton.me)
